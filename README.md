@@ -41,7 +41,10 @@ The project aims to predict the future values of financial stocks using machine 
 - Python 3.5+ installed
 - Required Python libraries (listed in `requirements.txt`)
   
-for more details see here 
+## Project Report
+
+You can access the complete project report [here](https://github.com/naveen777-github/Stock-Market-Price-Prediction/blob/main/mini_project.pdf).
+
 
 ---
 
